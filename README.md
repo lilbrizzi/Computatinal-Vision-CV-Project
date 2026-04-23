@@ -1,0 +1,2 @@
+We present a feature-based approach for panoramic image stitching, utilizing Scale-Invariant Feature Transform (SIFT) and RANSAC for homography estimation. 
+Tested on synthetic and real-world datasets, the method effectively handles various transformations and image imperfections, suggesting that while the current blending methods suﬀice for simple cases, enhancements like multiband blending could improve results in complex scenarios.
